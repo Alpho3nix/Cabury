@@ -6,3 +6,4 @@ You can find screenshots of the game in 'images'.
 Right now I haven't got the time to continue the development but the concept that I had in mind is there.
 I fixed all the bugs I found during development but there may be some that I didn't find.
 :)
+Also some graphics were found on itch.io but a lot of them were made by this talented individual https://kvsr.itch.io !
