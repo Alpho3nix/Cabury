@@ -1,2 +1,2 @@
 # Cabury
-First real game using C++ sfml
+First game using C++ sfml
